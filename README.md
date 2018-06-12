@@ -1,2 +1,2 @@
 # SharePointRepository
-Reusable Libraries For SharePoint Development
+Reusable Libraries For SharePoint Project Development
