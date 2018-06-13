@@ -1,5 +1,6 @@
 /*
 This file provides all operations available in SharePoint REST Api
+AUTHOR :- FEBIN JS
 */
 var RESTOperations = window.OPMNameSpace || {};
 
